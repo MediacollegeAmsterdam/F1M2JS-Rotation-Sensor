@@ -52,7 +52,7 @@ function activateVoice(alpha, beta, gamma){
 function showMyImage(alpha, beta, gamma){
     // image if X-axis > value
     if(beta > 40){
-        document.getElementById('myImage').src = "logo.svg"; // show image
+        document.getElementById('myImage').src = "logo.jpg"; // show image
         }
         else {
             document.getElementById('myImage').src = ""; // no image
